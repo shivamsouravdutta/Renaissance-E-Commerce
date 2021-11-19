@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/renaissance/static/css/main.6e9e4d76.chunk.css",
+    "main.js": "/renaissance/static/js/main.b0b451f5.chunk.js",
+    "main.js.map": "/renaissance/static/js/main.b0b451f5.chunk.js.map",
+    "runtime-main.js": "/renaissance/static/js/runtime-main.c9f4ad23.js",
+    "runtime-main.js.map": "/renaissance/static/js/runtime-main.c9f4ad23.js.map",
+    "static/js/2.bb33336a.chunk.js": "/renaissance/static/js/2.bb33336a.chunk.js",
+    "static/js/2.bb33336a.chunk.js.map": "/renaissance/static/js/2.bb33336a.chunk.js.map",
+    "index.html": "/renaissance/index.html",
+    "static/css/main.6e9e4d76.chunk.css.map": "/renaissance/static/css/main.6e9e4d76.chunk.css.map",
+    "static/js/2.bb33336a.chunk.js.LICENSE.txt": "/renaissance/static/js/2.bb33336a.chunk.js.LICENSE.txt",
+    "static/media/hello.abd38c54.svg": "/renaissance/static/media/hello.abd38c54.svg",
+    "static/media/shopping-bag.a688874f.svg": "/renaissance/static/media/shopping-bag.a688874f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9f4ad23.js",
+    "static/js/2.bb33336a.chunk.js",
+    "static/css/main.6e9e4d76.chunk.css",
+    "static/js/main.b0b451f5.chunk.js"
+  ]
+}
